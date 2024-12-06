@@ -1,0 +1,10 @@
+
+.todo_container{
+  color: black;
+  list-style: none;
+
+}
+
+.todo_container li{
+  color: black;
+}
